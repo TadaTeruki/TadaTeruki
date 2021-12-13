@@ -2,6 +2,13 @@
 
 Sub-account : https://github.com/Perukii
 
+### Status
+
+![TadaTeruki's github stats](https://github-readme-stats.vercel.app/api?username=TadaTeruki&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TadaTeruki&hide=html,shell,makefile)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Major works
 
 [![RDGL](https://github-readme-stats.vercel.app/api/pin/?username=TadaTeruki&repo=RDGL)](https://github.com/TadaTeruki/RDGL)
