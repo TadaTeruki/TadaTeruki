@@ -2,13 +2,6 @@
 
 Sub-account : https://github.com/Perukii
 
-### Status
-
-![TadaTeruki's github stats](https://github-readme-stats.vercel.app/api?username=TadaTeruki&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TadaTeruki&hide=html,shell,makefile)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Major works
 
 [![RDGL](https://github-readme-stats.vercel.app/api/pin/?username=TadaTeruki&repo=RDGL)](https://github.com/TadaTeruki/RDGL)
@@ -22,3 +15,9 @@ Sub-account : https://github.com/Perukii
 
 [![TransportNetworkSimulator](https://github-readme-stats.vercel.app/api/pin/?username=Perukii&repo=TransportNetworkSimulator)](https://github.com/Perukii/TransportNetworkSimulator)
 ![B4F19908-34EE-4077-95C0-45FCA0D3DFD7](https://user-images.githubusercontent.com/57752033/131673982-11185eeb-28d5-4b06-b874-523ca65f72c3.png)
+
+### Status
+
+![TadaTeruki's github stats](https://github-readme-stats.vercel.app/api?username=TadaTeruki&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TadaTeruki&hide=html,shell,makefile)](https://github.com/anuraghazra/github-readme-stats)
