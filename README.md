@@ -1,6 +1,6 @@
 # Tada Teruki
 
-Sub-account : https://github.com/Perukii
+Old-account : https://github.com/Perukii
 
 ### Major works
 
