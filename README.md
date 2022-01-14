@@ -1,6 +1,8 @@
 # Tada Teruki
 
-Old-account : https://github.com/Perukii
+**Previous-account** : https://github.com/Perukii
+
+**Web Portfolio** : https://tadateruki.github.io/Portfolio_2022/
 
 ### Major works
 
