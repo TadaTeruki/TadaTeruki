@@ -1,6 +1,5 @@
 # Tada Teruki
 
-**Web Portfolio** : https://tadateruki.github.io/Portfolio_2022/<br>
 Previous account : https://github.com/Perukii
 
 ## Works
