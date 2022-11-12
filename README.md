@@ -1,10 +1,8 @@
 # Tada Teruki
 
-Previous account : https://github.com/Perukii
+[Previous account (Perukii)](https://github.com/Perukii)
 
 ## Profile
-
-https://github.com/TadaTeruki/perufetch
 
 ```
 $ perufetch
@@ -18,13 +16,13 @@ $ perufetch
       #         ##    ##     #           Twitter: @PerukiFUN
       #         ##         .#=           GitHub: TadaTeruki
       =#               ====              Native Language: Go
-        =====.    ====                   Trained Languages: C, C++, Go, (Rust)
+        =====.    ====                   Languages: C, C++, Go, (Rust)
        =#=#########.                     Fields: Procedural Generation (CG)
      #######=######=                           : Backend Web Development
         ===  #     =                     
-                                         ████████████████████████
-                                         ████████████████████████
+        
 ```
+https://github.com/TadaTeruki/perufetch
 
 ## Works
 
