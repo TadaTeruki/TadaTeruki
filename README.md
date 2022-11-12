@@ -1,4 +1,4 @@
-# Tada Teruki
+# Teruki TADA (多田 瑛貴)
 
 [Previous account (Perukii)](https://github.com/Perukii)
 
@@ -22,7 +22,7 @@ $ perufetch
         ===  #     =                     
         
 ```
-https://github.com/TadaTeruki/perufetch
+source: https://github.com/TadaTeruki/perufetch
 
 ## Works
 
