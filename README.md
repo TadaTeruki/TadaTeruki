@@ -7,7 +7,7 @@
 [Portfolio Page](https://portfolio.peruki.dev) 
 
 ```
-$ perufetch
+$ curl https://perufetch.peruki.dev
                                        Peruki@future-university-hakodate
  .                                     ---------------------------------
 ##########==  =#                       Name: Teruki TADA
@@ -23,7 +23,6 @@ $ perufetch
    #######=######=                     Last Update: 28 Nov 2023
       ===  #     =         
 ```
-source: https://github.com/TadaTeruki/perufetch
 
 ### Status
 
