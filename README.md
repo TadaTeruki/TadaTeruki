@@ -21,10 +21,7 @@ $ perufetch
       =====.    ====                   Dev Fields: Procedural Generation
     =#=#########.                                : GUI Application
    #######=######=                     Last Update: 28 Nov 2023
-      ===  #     =
-                                         ████████████████████████
-                                         ████████████████████████                    
-        
+      ===  #     =         
 ```
 source: https://github.com/TadaTeruki/perufetch
 
