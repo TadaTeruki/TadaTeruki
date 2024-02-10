@@ -9,8 +9,3 @@
 [Portfolio Page](https://portfolio.peruki.dev) 
 
 [Previous account (Perukii)](https://github.com/Perukii)
-
-### Status
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TadaTeruki&hide=html,shell,makefile)](https://github.com/anuraghazra/github-readme-stats)
-![TadaTeruki's github stats](https://github-readme-stats.vercel.app/api?username=TadaTeruki&show_icons=true&theme=radical)
