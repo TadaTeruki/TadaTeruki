@@ -9,13 +9,13 @@
 
 Geographical Data Generation
 
-#### Basis
+#### Bases
 - [**fastlem**](https://github.com/TadaTeruki/fastlem) - Terrain<br>
 - [**name-engine**](https://github.com/TadaTeruki/name-engine) - Place Names<br>
 - (WIP) - Transport Network and Sections
 - (WIP) - Textures
 
-#### Algorithm
+#### Subprojects
 - [**naturalneighbor**](https://github.com/TadaTeruki/naturalneighbor) - Natural Neighbor Interpolation for Rust
 
 ___
