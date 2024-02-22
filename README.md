@@ -1,11 +1,10 @@
 
 # Teruki TADA 
 
-<img src="https://github.com/TadaTeruki/TadaTeruki/assets/69315285/fc09884a-8a21-4d4d-9e03-ac44b9339417" alt="icon_A" width="130px"></img>
-<img src="https://github.com/TadaTeruki/TadaTeruki/assets/69315285/d29044d0-aec4-459e-8cfb-0529bd127a1b" alt="icon_B" width="130px"></img>
-<img src="https://github.com/TadaTeruki/TadaTeruki/assets/69315285/e70838e8-f433-47d2-8809-b02818d3d528" alt="icon_C" width="130px"></img>
-
 Procedural Cartograph
+
+<img src="https://github.com/TadaTeruki/TadaTeruki/assets/69315285/f4d2f02e-8ced-48ba-8c7a-b0bb45fbfd1d" height="130px"></img><img src="https://github.com/TadaTeruki/TadaTeruki/assets/69315285/848356d4-7a58-4342-8763-5190450f15d0" height="130px"></img><br>
+<img src="https://github.com/TadaTeruki/TadaTeruki/assets/69315285/747f7e95-2125-4ff3-b36f-2f9a2fa77c65" height="130px"></img><img src="https://github.com/TadaTeruki/TadaTeruki/assets/69315285/00b67987-e5a5-4198-b89f-25bbe017d63a" height="130px"></img>
 
 #### Base Algorithms
 - [**fastlem**](https://github.com/TadaTeruki/fastlem) - Terrain<br>
