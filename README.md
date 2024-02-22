@@ -9,15 +9,19 @@
 
 Geographical Data Generation
 
-#### Bases
+#### Showcase
+WIP
+
+#### Base Algorithm
 - [**fastlem**](https://github.com/TadaTeruki/fastlem) - Terrain<br>
 - [**name-engine**](https://github.com/TadaTeruki/name-engine) - Place Names<br>
 - (WIP) - Transport Network and Sections
 - (WIP) - Textures
 
-#### Subprojects
+#### Subproject
 - [**naturalneighbor**](https://github.com/TadaTeruki/naturalneighbor) - Natural Neighbor Interpolation for Rust
 
-___
+#### Stats
 
-[![Teruki TADA 's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadaTeruki)](https://github.com/anuraghazra/github-readme-stats)
+[![Teruki TADA 's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadaTeruki&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadaTeruki&layout=compact&hide=html)
