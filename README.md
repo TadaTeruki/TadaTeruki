@@ -4,12 +4,8 @@
 <img src="https://github.com/TadaTeruki/TadaTeruki/assets/69315285/fc09884a-8a21-4d4d-9e03-ac44b9339417" alt="icon_A" width="130px"></img>
 <img src="https://github.com/TadaTeruki/TadaTeruki/assets/69315285/d29044d0-aec4-459e-8cfb-0529bd127a1b" alt="icon_B" width="130px"></img>
 <img src="https://github.com/TadaTeruki/TadaTeruki/assets/69315285/e70838e8-f433-47d2-8809-b02818d3d528" alt="icon_C" width="130px"></img>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadaTeruki&layout=compact&hide=html&hide_title=true)
 
-Geographical Data Generation
-
-#### Showcases
-WIP
+Procedural Cartgraph
 
 #### Base Algorithms
 - [**fastlem**](https://github.com/TadaTeruki/fastlem) - Terrain<br>
@@ -19,3 +15,5 @@ WIP
 
 #### Subprojects
 - [**naturalneighbor**](https://github.com/TadaTeruki/naturalneighbor) - Natural Neighbor Interpolation for Rust
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadaTeruki&layout=compact&hide=html&hide_title=true)
