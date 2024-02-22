@@ -20,8 +20,3 @@ WIP
 
 #### Subproject
 - [**naturalneighbor**](https://github.com/TadaTeruki/naturalneighbor) - Natural Neighbor Interpolation for Rust
-
-#### Stats
-
-[![Teruki TADA 's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadaTeruki&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadaTeruki&layout=compact&hide=html)
