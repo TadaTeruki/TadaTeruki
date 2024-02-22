@@ -6,10 +6,10 @@
 
 Procedural Cartograph
 
-#### Base Algorithms
-- [**fastlem**](https://github.com/TadaTeruki/fastlem) - Terrain<br>
-- [**name-engine**](https://github.com/TadaTeruki/name-engine) - Place Names<br>
-- (WIP) - Transport Network and Sections
+#### Core Generators
+- [**fastlem**](https://github.com/TadaTeruki/fastlem) - Terrain
+- [**name-engine**](https://github.com/TadaTeruki/name-engine) - Place Names
+- (WIP) - City Models
 - (WIP) - Textures
 
 #### Subprojects
