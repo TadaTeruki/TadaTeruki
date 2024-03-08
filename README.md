@@ -1,6 +1,6 @@
 ### About me
 
-Teruki Tada / 多田 瑛貴
+Teruki TADA / 多田 瑛貴
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadaTeruki&layout=compact&hide=html&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
