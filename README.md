@@ -1,4 +1,4 @@
-### Profile
+### About me
 
 Teruki Tada / 多田 瑛貴
 
