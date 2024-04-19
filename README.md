@@ -1,4 +1,4 @@
-### About me
+### About Me
 
 Teruki TADA / 多田 瑛貴
 
@@ -18,3 +18,8 @@ Teruki TADA / 多田 瑛貴
 #### Subprojects
 - [**naturalneighbor**](https://github.com/TadaTeruki/naturalneighbor) - Natural Neighbor Interpolation for Rust
 
+#### Contact
+
+me@peruki.dev
+
+<img src="https://github.com/TadaTeruki/TadaTeruki/assets/69315285/976d38de-aa45-4f15-bd52-c3ea54e3d5de" width="450px"></img>
