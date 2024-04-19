@@ -13,7 +13,7 @@ Teruki TADA / 多田 瑛貴
 #### Core Generators
 - [**fastlem**](https://github.com/TadaTeruki/fastlem) - Terrain / 地形生成
 - [**name-engine**](https://github.com/TadaTeruki/name-engine) - Place Names / 地名生成
-- (WIP) - City Models / 交通網・区画生成
+- [**street-engine**](https://github.com/TadaTeruki/street-engine) (WIP) - City Models / 交通網・区画生成
 
 #### Subprojects
 - [**naturalneighbor**](https://github.com/TadaTeruki/naturalneighbor) - Natural Neighbor Interpolation for Rust
