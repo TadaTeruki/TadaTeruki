@@ -2,6 +2,8 @@
 
 Teruki TADA / 多田 瑛貴
 
+ A Hobbyist Developer in Hakodate, Japan. Studies complex system in Future University Hakodate. Loves writing simulators with Rust or Go, and visualizing them with TypeScript.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadaTeruki&layout=compact&hide=html&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
@@ -20,7 +22,7 @@ Teruki TADA / 多田 瑛貴
 
 #### Showcases
 
-- (WIP) - Procedural Generator of Towns in Hokkaido / 北海道の "存在しない" 市街生成 [NT函館 2024]
+- (WIP) - Procedural Generator of Fictional Towns in Hokkaido / 北海道の "存在しない" 市街生成 [NT函館 2024]
 
 ### Contact
 
