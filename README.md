@@ -4,7 +4,7 @@ Teruki TADA / 多田 瑛貴
 
  - A Hobbyist Developer in Hakodate, Japan.
  - Studies complex system in Future University Hakodate.
- - Loves writing simulators with Rust or Go, and visualizing them with TypeScript.
+ - Loves writing simulators in Rust or Go, and visualizing them with TypeScript.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadaTeruki&layout=compact&hide=html&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
