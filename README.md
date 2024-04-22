@@ -3,8 +3,7 @@
 Teruki TADA / 多田 瑛貴
 
  - A Hobbyist Developer in Hakodate, Japan.
- - Studying complex systems at Future University Hakodate.
- - Loves Rust and Golang as primary languages, and TypeScript with web technologies as an expressive tool.
+ - Loves Rust and Golang as primary languages, and TypeScript for using web technologies as an expressive tool.<br>
 
 #### Languages
 
