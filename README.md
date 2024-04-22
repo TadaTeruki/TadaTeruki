@@ -18,6 +18,10 @@ Teruki TADA / 多田 瑛貴
 #### Subprojects
 - [**naturalneighbor**](https://github.com/TadaTeruki/naturalneighbor) - Natural Neighbor Interpolation for Rust
 
+#### Showcases
+
+- (WIP) - Procedural Generator of Towns in Hokkaido / 北海道の "存在しない" 市街生成 [NT函館 2024]
+
 ### Contact
 
 me@peruki.dev
