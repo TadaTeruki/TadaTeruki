@@ -2,9 +2,6 @@
 
 Teruki TADA / 多田 瑛貴
 
- - A Hobbyist Developer in Hakodate, Japan.
- - Loves Rust and Golang as primary languages, and TypeScript for using web technologies as an expressive tool.<br>
-
 #### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadaTeruki&layout=compact&hide=html&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
