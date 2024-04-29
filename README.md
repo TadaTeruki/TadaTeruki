@@ -22,7 +22,7 @@ Teruki TADA / 多田 瑛貴
 
 #### Showcases
 
-- [**HokkaidoGenerator**](https://github.com/TadaTeruki/HokkaidoGenerator) - Fictional Towns in Hokkaido / 北海道の "存在しない" 市街生成 [NT函館 2024]
+- [**HokkaidoGenerator**](https://github.com/TadaTeruki/HokkaidoGenerator) - Fictional Towns in Hokkaido / 実在しない北海道の市街生成 [NT函館 2024]
 
 ### Contact
 
